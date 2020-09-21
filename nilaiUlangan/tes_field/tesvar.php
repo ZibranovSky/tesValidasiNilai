@@ -1,6 +1,6 @@
 <?php 
-$a = "byksw ";
-$b = "cyna";
+$a = "saya ";
+$b = "zibran";
 echo($a . $b);	
 
  ?>
