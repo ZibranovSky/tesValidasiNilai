@@ -34,13 +34,3 @@ if ($save) {
 }
   
   ?>
-
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Bakekok Bunda</title>
-</head>
-<body>
-
-</body>
-</html>
